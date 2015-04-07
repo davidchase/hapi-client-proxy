@@ -4,6 +4,8 @@ Creating a reverse proxy pattern for client to hapi
 # Concept
 To funnel requests from the client(browser) through hapi(nodejs) to an endpoint.
 
+While still using hapi to render templates :smirk:
+
 So all endpoint requests are made by hapi.
 
 
